@@ -1,7 +1,24 @@
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m19/lms/img/banner.jpg" alt="lesson banner" />
+   
+## Cryptocurrency Price Change Prediction
+Use Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. This project offers an exciting opportunity to explore the world of cryptocurrencies and develop a predictive model that can help cryptocurrency enthusiasts and traders make informed decisions.
 
-Use Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-### Instructions
+## Overview
+Cryptocurrency markets are known for their volatility, and traders often seek to understand short-term (24-hour) and longer-term (7-day) price trends. In this challenge, your primary goals are as follows:
+
+* Data Collection: Gather relevant data on cryptocurrency prices, including historical price changes for both 24-hour and 7-day periods.
+
+* Data Preprocessing: Clean and preprocess the data, handling missing values, outliers, and other data quality issues.
+
+* Unsupervised Learning: Apply unsupervised learning techniques to discover patterns and relationships within the cryptocurrency data.
+
+* Classification Model: Build a predictive classification model to determine whether cryptocurrencies are affected by 24-hour or 7-day price changes.
+
+* Model Evaluation: Assess the performance of your model using appropriate evaluation metrics, such as accuracy, precision, recall, and F1-score.
+
+## Dataset
+You will have access to a dataset containing historical cryptocurrency price data, including features related to different cryptocurrencies, their prices, and price changes over 24-hour and 7-day periods. This dataset will serve as the foundation for your predictive modeling efforts.
+### Getting Started
 
 1. Rename the `Crypto_Clustering_starter_code.ipynb` file as `Crypto_Clustering.ipynb`.
 
